@@ -1,5 +1,5 @@
 #Declare an arrays with DNS values
-ArDNS=( ec2-52-16-233-180.eu-west-1.compute.amazonaws.com ec2-34-244-84-54.eu-west-1.compute.amazonaws.com ec2-52-208-60-130.eu-west-1.compute.amazonaws.com)
+ArDNS=( ec2-52-16-233-180.eu-west-1.compute.amazonaws.com ec2-34-244-84-54.eu-west-1.compute.amazonaws.com ec2-34-247-54-138.eu-west-1.compute.amazonaws.com)
 
 #Function return instanceID value by key pair
 function InId (){
